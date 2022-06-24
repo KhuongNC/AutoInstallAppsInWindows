@@ -22,4 +22,5 @@ Theres are apps that can be installed (the apps which i need) and update later:
   <li>Sql server management studio 2019</li>
   <li>NodeJS</li>
   <li>Sass</li>
+  <li>Microsoft windows terminal</li>
 </ul>
