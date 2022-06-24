@@ -67,3 +67,6 @@ choco install nodejs-lts -y
 
 # Sass
 choco install sass -y
+
+# Windows terminal
+choco install microsoft-windows-terminal -y
