@@ -64,3 +64,6 @@ choco install sql-server-management-studio -y
 
 # NodeJS
 choco install nodejs-lts -y
+
+# Sass
+choco install sass -y
